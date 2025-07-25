@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Chinmayee 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Wizard | Cloud Explorer</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Crafting+clean+code+with+passion...;Always+learning+something+new!;Building+the+future+of+tech" alt="Typing SVG" />
@@ -51,8 +51,8 @@
 ## 💬 Connect with Me
 
 <p>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:chinmayeecj21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chinmayee-c-j-ab496025b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/chinmayee-cj"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
@@ -61,9 +61,7 @@
 ## 📌 Fun Fact
 
 > I once debugged a React error for 3 hours...  
-> and it turned out to be a missing semicolon 😅
-> How is it always the semicolon or the file name!
-
+>  😅How is it always the semicolon or the file name!
 ---
 
 ⭐ *Thanks for stopping by! Drop a ⭐ on my repositories if they helped you. Let's build amazing things together!*
