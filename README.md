@@ -48,16 +48,6 @@
 
 ---
 
-## 💬 Connect with Me
-
-<p>
-  <a href="mailto:chinmayeecj21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/chinmayee-c-j-ab496025b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/chinmayee-cj"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-</p>
-
----
-
 ## 📌 Fun Fact
 
 > I once debugged a React error for 3 hours...  
