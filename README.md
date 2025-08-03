@@ -1,8 +1,7 @@
 <h1 align="center">Hey there, I'm Chinmayee 👋</h1>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Crafting+clean+code+with+passion...;Always+learning+something+new!;Building+the+future+of+tech..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=500&center=true&vCenter=true&lines=Crafting+clean+code+with+passion...;Always+learning+something+new!;Building+the+future+of+tech..." alt="Typing SVG" />
 </p>
 
 ---
@@ -51,7 +50,12 @@
 ## 📌 Fun Fact
 
 > I once debugged a React error for 3 hours...  
->  😅How is it always the semicolon or the file name!
+> 😅 How is it always the semicolon or the file name!
+
 ---
 
 ⭐ *Thanks for stopping by! Drop a ⭐ on my repositories if they helped you. Let's build amazing things together!*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding%20👩‍💻&fontSize=16&fontAlignY=65&desc=Always%20learning%2C%20always%20building.&descAlignY=50&descAlign=center" />
+</p>
