@@ -29,17 +29,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmayee-cj&show_icons=true&theme=radical&border_radius=12" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayee-cj&layout=compact&theme=radical&border_radius=12" height="165">
 </p>
 
 ---
 
 ## 🔥 Streaks & Contributions
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chinmayee-cj&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="200"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmayee-cj&theme=radical" />
@@ -49,13 +44,13 @@
 
 ## 📌 Fun Fact
 
-> I once debugged a React error for 3 hours...  
-> 😅 How is it always the semicolon or the file name!
+I once debugged a React error for 3 hours...  
+😅 How is it always the semicolon or the file name!
 
 ---
 
 ⭐ *Thanks for stopping by! Drop a ⭐ on my repositories if they helped you. Let's build amazing things together!*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding%20👩‍💻&fontSize=16&fontAlignY=65&desc=Always%20learning%2C%20always%20building.&descAlignY=50&descAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=%20👩‍💻&fontSize=16&fontAlignY=65&desc=%20Learning%2C%20Building.&descAlignY=50&descAlign=center" />
 </p>
