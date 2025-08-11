@@ -44,13 +44,6 @@
 
 ---
 
-## 📌 Fun Fact
-
-I once debugged a React error for 3 hours...  
-😅 How is it always the semicolon or the file name!
-
----
-
 ⭐ *Thanks for stopping by! Drop a ⭐ on my repositories if they helped you. Let's build amazing things together!*
 
 
