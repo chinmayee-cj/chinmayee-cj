@@ -31,16 +31,19 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayee-cj&layout=compact&theme=radical&langs_count=10&border_radius=12" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmayee-cj&show_icons=true&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayee-cj&layout=compact&theme=radical" height="165" />
+</p>
 
 ---
 
 ## 🔥 Streaks & Contributions
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmayee-cj&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=chinmayee-cj" />
 </p>
 
 ---
