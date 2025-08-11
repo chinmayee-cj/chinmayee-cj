@@ -53,6 +53,4 @@ I once debugged a React error for 3 hours...
 
 ⭐ *Thanks for stopping by! Drop a ⭐ on my repositories if they helped you. Let's build amazing things together!*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=%20👩‍💻&fontSize=16&fontAlignY=65&desc=%20Learning%2C%20Building.&descAlignY=50&descAlign=center" />
-</p>
+
