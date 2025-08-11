@@ -31,8 +31,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmayee-cj&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayee-cj&layout=compact&theme=radical" height="165" />
 </p>
+
 
 ---
 
