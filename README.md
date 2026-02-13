@@ -20,6 +20,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
+---
 
 ### Tools & Platforms
 
@@ -34,16 +35,16 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayee-cj&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmayee-cj&show_icons=true&theme=radical&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayee-cj&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
 </p>
-
 
 ---
 
 ## 🔥 Streaks & Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chinmayee-cj" />
+  <img src="https://streak-stats.demolab.com?user=chinmayee-cj&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
